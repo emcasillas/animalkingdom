@@ -1,0 +1,87 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.bear{
+  position:absolute;
+  text-decoration: white underline dotted;
+  font-size: 100px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  left: 230px;
+  top: 400px;
+  color:black;
+}
+
+.bearpic{
+  position: absolute;
+  left: 230px;
+  top: 400px;
+}
+
+.chimp{
+  position: absolute;
+  text-decoration: white underline dotted;
+  font-size: 40px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  left: 570px;
+  top: 170px;
+  color:black;
+}
+
+.chimppic{
+  position: absolute;
+  left: 570px;
+  top: 170px;
+}
+
+.goat{
+  position:absolute;
+  text-decoration: white underline dotted;
+  font-size: 22px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  left: 970px;
+  top: 236px;
+  color:black;
+}
+
+.goatpic{
+  position:absolute;
+  left: 950px;
+  top: 206px;
+}
+
+.cat{
+  position:absolute;
+  text-decoration: white underline dotted;
+  font-size: 60px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  left: 1000px;
+  top: 450px;
+  color:black;
+}
+
+.catpic{
+  position:absolute;
+  left: 1000px;
+  top: 320px;
+}
+
+.gazelle{
+  position:absolute;
+  text-decoration: white underline dotted;
+  font-size: 40px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  left: 665px;
+  top: 550px;
+  color:black;
+}
+
+.gazellepic{
+  position:absolute;
+  left: 605px;
+  top: 500px;
+}
